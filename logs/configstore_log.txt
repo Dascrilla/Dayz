@@ -1,0 +1,5 @@
+
+
+[2020-10-15 01:04:14] Failed to read store 'install' from 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf.tmp'
+[2020-10-15 01:04:15] Flushed store 'install' to 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf'
+[2020-10-15 01:04:16] Flushed store 'install' to 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf'

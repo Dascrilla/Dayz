@@ -505,7 +505,7 @@
 		<attachments chance="0.30">
 			<item name="ExpansionDeltapointOptic" chance="1.00" />
 		</attachments>
-	</type>	
+	</type>
 	<type name="ExpansionFlaregun">
 		<attachments chance="0.30">
 			<item name="ExpansionAmmoFlare" chance="1.00" />
@@ -677,7 +677,7 @@
 		</attachments>
 		<attachments chance="0.05">
 			<item name="PistolSuppressor" chance="1.00" />
-		</attachments>		
+		</attachments>
         <attachments chance="1.00">
             <item name="AK_RailHndgrd" chance="1.00" />
         </attachments>

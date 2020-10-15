@@ -1,0 +1,15 @@
+
+
+[2020-10-15 01:04:14] Log session started
+[2020-10-15 01:04:14] [0,0] SetSteamID( [A:1:0:0] )
+[2020-10-15 01:04:14] [0,0] Server says 0% of connections should be websockets, we rolled 31 - using UDP as default.
+[2020-10-15 01:04:14] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api for launcher type 'default'. . .
+[2020-10-15 01:04:14] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f002:101::a2fe:c002]:80 ([2602:801:f002:101::a2fe:c002]:80)) - SUCCESS
+[2020-10-15 01:04:14] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f006:100::a2fe:c303]:27019) - SUCCESS
+[2020-10-15 01:04:15] CCMInterface::YieldingConnect -- got 100 CMs and 100 WebSocket CMS from ISteamDirectory/GetCMList.
+[2020-10-15 01:04:15] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.195.67:27019, UDP)
+[2020-10-15 01:04:16] [1,2] ConnectionCompleted() (162.254.195.71:27025, UDP)
+[2020-10-15 01:04:16] [1,2] RecvMsgClientLogOnResponse() : [A:1:2286284802:15719] 'OK'
+[2020-10-15 01:21:59] [3,2] LogOff()
+[2020-10-15 01:21:59] [2,2] AsyncDisconnect()
+[2020-10-15 01:21:59] [2,2] Log session ended
