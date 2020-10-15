@@ -1,0 +1,111 @@
+{
+    "Name": "MVS Loadout",
+    "ContainerClassName": "ExpansionAirdropContainer_Basebuilding",
+    "Items": [
+        {
+            "ItemName": "MVS_Rucksack_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_CombatShirt_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_CombatPants_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Combat_Vest_Heavy_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_WarriorHelmet_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MilitaryBoots_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TacticalGloves_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Belt_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Taco_Pouch_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MVS_Heavy_Pouch_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "NVGoggles",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Battery9V",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "SR25_Suppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "SR25_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "SR25_Magazine_Extendo",
+            "NumberOfStacks": 5,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "ussr_m200_black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "M200Optic_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Mag_ussrm200_7Rnd",
+            "NumberOfStacks": 5,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "M200Suppressor_black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "CombatKnife",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "ACOGOptic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

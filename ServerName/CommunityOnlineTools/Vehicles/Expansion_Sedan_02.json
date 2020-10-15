@@ -1,0 +1,21 @@
+{
+    "VehicleName": "Expansion_Sedan_02",
+    "DisplayName": "",
+    "Parts": [
+        "Sedan_02_Hood",
+        "Sedan_02_Trunk",
+        "Sedan_02_Door_1_1",
+        "Sedan_02_Door_1_2",
+        "Sedan_02_Door_2_1",
+        "Sedan_02_Door_2_2",
+        "Expansion_Sedan_02_Wheel",
+        "Expansion_Sedan_02_Wheel",
+        "Expansion_Sedan_02_Wheel",
+        "Expansion_Sedan_02_Wheel",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

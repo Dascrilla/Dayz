@@ -1,0 +1,23 @@
+@CF
+@Community-Online-Tools
+@CPBWeapons
+@Dayz-Expansion
+@Dayz-Expansion-Licensed
+@mvs
+@Summer_Chernarus
+@Trader
+addons
+battleye
+bliss
+docs
+dta
+vanilla files
+DayZServer_x64.exe
+steam_api64.dll
+steamclient64.dll
+tier0_s64.dll
+vstdlib_s64.dll
+ServerName/*.log*
+ServerName/*.ADM*
+ServerName/*.RPT*
+ServerName/*.mdmpttt*
