@@ -17,6 +17,22 @@ steam_api64.dll
 steamclient64.dll
 tier0_s64.dll
 vstdlib_s64.dll
+mpmissions/Expansion.ChernarusPlus/storage_1
+mpmissions/dayzOffline.chernarusplus
+mpmissions/dayzOffline.enoch
+mpmissions/Expansion Template
+mpmissions/Expansion.ChernarusPlusGloom
+mpmissions/Expansion.DeerIsle
+mpmissions/Expansion.Enoch
+mpmissions/Expansion.EnochGloom
+mpmissions/Expansion.sandbox
+mpmissions/ExpansionCOM.ChernarusPlus
+mpmissions/ExpansionCOM.ChernarusPlusGloom
+mpmissions/ExpansionCOM.DeerIsle
+mpmissions/ExpansionCOM.DeerIsleGloom
+mpmissions/ExpansionCOM.Enoch
+mpmissions/ExpansionCOM.EnochGloom
+mpmissions/ExpansionCOM.sandbox
 ServerName/*.log*
 ServerName/*.ADM*
 ServerName/*.RPT*
