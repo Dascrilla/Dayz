@@ -13,3 +13,12 @@
 [2020-10-15 17:14:31] Loaded store 'install' from 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf' successfully
 [2020-10-15 17:14:33] Flushed store 'install' to 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf'
 [2020-10-15 17:40:30] Flushed store 'install' to 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf'
+
+
+[2020-10-16 11:11:49] Loaded store 'install' from 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf' successfully
+[2020-10-16 11:11:50] Flushed store 'install' to 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf'
+[2020-10-16 11:11:50] Flushed store 'install' to 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf'
+
+
+[2020-10-16 14:14:37] Loaded store 'install' from 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf' successfully
+[2020-10-16 14:14:38] Flushed store 'install' to 'C:\Program Files (x86)\Steam\steamapps\common\DayZServer\config\config.vdf'

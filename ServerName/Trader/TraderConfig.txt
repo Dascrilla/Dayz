@@ -281,26 +281,7 @@ Expansion_MP5,          W,       800,   200
 Expansion_MP7,          W,      1000,   350
 Expansion_Kedr,         W,       800,   200
 
-<Category> Assault Rifles
-FAL,					W,		1000,	450
-AKM,					W,		1500,	750
-AK101,					W,		1500,	750
-AK74,					W,		1600,	750
-M4A1,					W,		1500,	750
-Expansion_M16,          W,      1500,   750
-Expansion_M1A,          W,      1700,   800
-
-<Category> Launcher
-ExpansionRPG7,          W,      15000,  5000
-ExpansionLAW,           W,      15000,  5000
-Expansion_M79,          W,      7500,   2000
-ExpansionFlaregun,      W,      5000,   1500
-
-<Category> Sniper Rifles
-VSS,					W,		1600,	960
-B95,					W,		1700,	1100
-SVD,					W,		2000,	1000
-Expansion_AWM,          W,      2500,   1200
+t
 
 <Category> Grenades
 RGD5Grenade,			1,		300,	100
@@ -1883,6 +1864,28 @@ GlowPlug, *, 180, 100
 
 <Category> Keys
 ExpansionCarKey,	*,		2000,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
+
+<Trader> Black Market
+<Category> Assault Rifles
+FAL,					W,		1000,	450
+AKM,					W,		1500,	750
+AK101,					W,		1500,	750
+AK74,					W,		1600,	750
+M4A1,					W,		1500,	750
+Expansion_M16,          W,      1500,   750
+Expansion_M1A,          W,      1700,   800
+
+<Category> Launcher
+ExpansionRPG7,          W,      15000,  5000
+ExpansionLAW,           W,      15000,  5000
+Expansion_M79,          W,      7500,   2000
+ExpansionFlaregun,      W,      5000,   1500
+
+<Category> Sniper Rifles
+VSS,					W,		1600,	960
+B95,					W,		1700,	1100
+SVD,					W,		2000,	1000
+Expansion_AWM,          W,      2500,   1200
 
 
 //<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!

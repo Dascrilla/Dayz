@@ -751,6 +751,97 @@
             <btn name="kN" />
         </btn>
     </input>
+    <input name="UAToggleFreeCam">
+        <btn name="kBackspace" />
+    </input>
+    <input name="UACopyPositionClipboard">
+        <btn name="kP" />
+    </input>
+    <input name="UARepairVehicleAtCrosshairs">
+        <btn name="kK" />
+    </input>
+    <input name="UAFocusOnGame">
+        <btn name="kTab" />
+    </input>
+    <input name="UAExitSpectate">
+        <btn name="kPrior" />
+    </input>
+    <input name="UASelectObject">
+        <btn name="mBLeft" />
+    </input>
+    <input name="UARotateInc">
+        <btn name="mBLeft" />
+    </input>
+    <input name="UARotateDec">
+        <btn name="mBRight" />
+    </input>
+    <input name="UAExecuteCommand">
+        <btn name="kReturn" />
+        <btn name="kNumpadEnter" />
+    </input>
+    <input name="UAUPCommand">
+        <btn name="kUp" />
+    </input>
+    <input name="UADOWNCommand">
+        <btn name="kDown" />
+    </input>
+    <input name="UAToggleAdminTools">
+        <btn name="kEnd" />
+    </input>
+    <input name="UAOpenAdminTools">
+        <btn name="kHome" />
+    </input>
+    <input name="UATeleportToCrosshair">
+        <btn name="kH" />
+    </input>
+    <input name="UADeleteObjCrosshair">
+        <btn name="kDelete" />
+    </input>
+    <input name="UAToggleGodMode">
+        <btn name="kInsert" />
+    </input>
+    <input name="UACamForward">
+        <btn name="kW" />
+    </input>
+    <input name="UACamBackward">
+        <btn name="kS" />
+    </input>
+    <input name="UACamRight">
+        <btn name="kD" />
+    </input>
+    <input name="UACamLeft">
+        <btn name="kA" />
+    </input>
+    <input name="UACamUp">
+        <btn name="kQ" />
+    </input>
+    <input name="UACamDown">
+        <btn name="kZ" />
+    </input>
+    <input name="UACamTurbo">
+        <btn name="kLShift" />
+    </input>
+    <input name="UACamShiftLeft">
+        <btn name="mLeft" />
+    </input>
+    <input name="UACamShiftRight">
+        <btn name="mRight" />
+    </input>
+    <input name="UACamShiftUp">
+        <btn name="mUp" />
+    </input>
+    <input name="UACamShiftDown">
+        <btn name="mDown" />
+    </input>
+    <input name="UACamSpeedAdd">
+        <btn name="mWheelUp" />
+    </input>
+    <input name="UACamSpeedDeduct">
+        <btn name="mWheelDown" />
+    </input>
+    <input name="UACamRelease">
+        <btn name="kLControl" />
+    </input>
     <input name="UAExpansionHeliRocket">
         <btn name="kSpace" />
     </input>
