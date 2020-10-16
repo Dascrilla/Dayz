@@ -13,3 +13,43 @@
 [2020-10-15 01:21:59] [3,2] LogOff()
 [2020-10-15 01:21:59] [2,2] AsyncDisconnect()
 [2020-10-15 01:21:59] [2,2] Log session ended
+
+
+[2020-10-15 17:12:43] Log session started
+[2020-10-15 17:12:43] [0,0] SetSteamID( [A:1:0:0] )
+[2020-10-15 17:12:43] [0,0] Server says 50% of connections should be websockets, we rolled 60 - using UDP as default.
+[2020-10-15 17:12:43] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.195.71:27020, UDP)
+[2020-10-15 17:12:44] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f006:100::a2fe:c303]:80 ([2602:801:f006:100::a2fe:c303]:80)) - SUCCESS
+[2020-10-15 17:12:44] [1,2] ConnectionCompleted() (162.254.195.87:27023, UDP)
+[2020-10-15 17:12:44] [1,2] RecvMsgClientLogOnResponse() : [A:1:1673123850:15723] 'OK'
+[2020-10-15 17:12:46] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / 2602:801:f006:100::a2fe:c303) - TIMEOUT
+[2020-10-15 17:13:55] [3,2] LogOff()
+[2020-10-15 17:13:55] [2,2] AsyncDisconnect()
+[2020-10-15 17:13:55] [2,2] Log session ended
+
+
+[2020-10-15 17:14:31] Log session started
+[2020-10-15 17:14:31] [0,0] SetSteamID( [A:1:0:0] )
+[2020-10-15 17:14:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-10-15 17:14:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-10-15 17:14:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-10-15 17:14:32] [0,0] Server says 50% of connections should be websockets, we rolled 30 - using WebSockets as default.
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() (cm2-lax1.cm.steampowered.com:27020) starting...
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27032) starting...
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27038) starting...
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27028) starting...
+[2020-10-15 17:14:32] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f002:101::a2fe:c002]:80 ([2602:801:f002:101::a2fe:c002]:80)) - SUCCESS
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() (cm2-lax1.cm.steampowered.com:27020) results: 252.2391ms + load 17.0000
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27037) starting...
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27038) results: 63.0318ms + load 18.0000
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27032) results: 63.0049ms + load 19.0000
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() stopping after 400.00ms timeout and using good enough host (cm6-lax1.cm.steampowered.com:27038)
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27028) results: 63.1607ms + load 17.0000
+[2020-10-15 17:14:32] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27037) results: 62.8906ms + load 18.0000
+[2020-10-15 17:14:32] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm5-lax1.cm.steampowered.com:27028, WebSocket)
+[2020-10-15 17:14:32] [1,3] ConnectionCompleted() (162.254.195.71:27028, WebSocket)
+[2020-10-15 17:14:33] [1,3] RecvMsgClientLogOnResponse() : [A:1:1673913354:15723] 'OK'
+[2020-10-15 17:14:34] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / 2602:801:f006:100::a2fe:c303) - TIMEOUT
+[2020-10-15 17:40:30] [3,3] LogOff()
+[2020-10-15 17:40:30] [2,3] AsyncDisconnect()
+[2020-10-15 17:40:30] [2,3] Log session ended

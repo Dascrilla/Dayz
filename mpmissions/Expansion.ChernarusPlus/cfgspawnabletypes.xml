@@ -3822,6 +3822,236 @@
 			<item name="MVS_Altyn_Visor_Lifted_Black" chance="1.00" />
 		</attachments>
 	</type>
+
+	<!-- Start CPBWeapons -->
+		<type name="Barret">
+			<attachments chance="1.00">
+				<item name="HuntingOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Barret_Magazine" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="Barret_Tan">
+			<attachments chance="1.00">
+				<item name="HuntingOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Barret_Magazine" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="Barret_Green">
+			<attachments chance="1.00">
+				<item name="HuntingOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Barret_Magazine" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="Barret_Gold">
+			<attachments chance="1.00">
+				<item name="HuntingOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Barret_Magazine" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="M200">
+			<attachments chance="1.00">
+				<item name="HuntingOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="m200_Magazine" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="HK416">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="SR25_Black">
+			<attachments chance="1.00">
+				<item name="HuntingOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="SR25_Magazine" chance="1.00" />
+				<item name="SR25_Suppressor" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="SR25_Green">
+			<attachments chance="1.00">
+				<item name="HuntingOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="SR25_Magazine" chance="1.00" />
+				<item name="SR25_Suppressor" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="SR25_Tan">
+			<attachments chance="1.00">
+				<item name="HuntingOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="SR25_Magazine" chance="1.00" />
+				<item name="SR25_Suppressor" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="M447">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Mag_AKM_30Rnd" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="Thompson">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Thompson_DrumMag" chance="0.30" />
+				<item name="Thompson_StickMag" chance="0.50" />
+			</attachments>
+		</type>
+		<type name="M14_EFT">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="M14_Magazine_Extended" chance="0.40" />
+				<item name="M14_Magazine_dual" chance="0.30" />
+				<item name="M14_Magazine" chance="0.30" />
+			</attachments>
+		</type>
+		<type name="CPBVSS">
+			<attachments chance="1.00">
+				<item name="PSO1Optic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Mag_VSS_10Rnd" chance="0.30" />
+			</attachments>
+		</type>
+		<type name="KDMR_Worn">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="KDMR_Magazine" chance="0.30" />
+			</attachments>
+		</type>
+		<type name="KDMR_Camo">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="KDMR_Magazine" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="Val">
+			<attachments chance="1.00">
+				<item name="" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Val_Magazine" chance="0.30" />
+				<item name="Asval_Magazine_Dual" chance="0.30" />
+			</attachments>
+		</type>
+		<type name="DDM4V5">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="DDM4V5_Magazine" chance="0.30" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="BSuppressor" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="Glock41">
+			<attachments chance="1.00">
+				<item name="" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Glock41_Magazine" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="MCRCARB_Black">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Steel_100rnd_Magazine" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="ETATH_Black" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="MCRCARB_Tan">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Steel_100rnd_Magazine" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="ETATH_Black" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="MCRCQC_Black">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Steel_100rnd_Magazine" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="MCRSAW_Black">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Steel_100rnd_Magazine" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="ETATH_Black" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="TX15_Black">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="Steel_100rnd_Magazine" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="ETATH_Black" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="SA58">
+			<attachments chance="1.00">
+				<item name="ACOGOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="SA58_Magazine" chance="0.50" />
+				<item name="SA58_Drum_Magazine" chance="0.50" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="VerticalGrip_Black" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="BSuppressor" chance="1.00" />
+			</attachments>
+		</type>
+		<type name="R700">
+			<attachments chance="1.00">
+				<item name="HuntingOptic" chance="1.00" />
+			</attachments>
+			<attachments chance="1.00">
+				<item name="R700_Magazine" chance="0.30" />
+			</attachments>
+		</type>
+	<!-- End CPBWeapons -->
+
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">

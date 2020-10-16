@@ -1,3 +1,9 @@
 
 
 [2020-10-15 01:04:14] Loaded 0 apps from install folder "C:\Program Files (x86)\Steam\steamapps\common\DayZServer\steamapps\appmanifest_*.acf".
+
+
+[2020-10-15 17:12:43] Loaded 0 apps from install folder "C:\Program Files (x86)\Steam\steamapps\common\DayZServer\steamapps\appmanifest_*.acf".
+
+
+[2020-10-15 17:14:31] Loaded 0 apps from install folder "C:\Program Files (x86)\Steam\steamapps\common\DayZServer\steamapps\appmanifest_*.acf".
