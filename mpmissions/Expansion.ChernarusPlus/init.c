@@ -22,7 +22,7 @@ void SpawnObject( string type, vector position, vector orientation )
 
 void main()
 {
-	bool loadTraderObjects = false;
+	bool loadTraderObjects = true;
 	bool loadTraderNPCs = false;
 
 	string MissionWorldName = "empty";

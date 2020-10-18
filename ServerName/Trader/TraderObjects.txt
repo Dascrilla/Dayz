@@ -84,82 +84,66 @@ TraderObject
 <VehicleSpawnOri> 298.657,352.6, 0
 
 
-<Object> SurvivorM_Niki
+<Object> SurvivorF_Maria
 <ObjectPosition> 3704.55, 402.043, 5958.13
 <ObjectOrientation> 335.798, 347.714, 0
-<ObjectAttachment> MSFC_FirstAidKit
-<ObjectAttachment> MassNBCJacketYellow
-<ObjectAttachment> MassNBCpantsYellow
-<ObjectAttachment> MassNBCbootsYellow
-<ObjectAttachment> MassNBChoodYellow
-<ObjectAttachment> MassNBC_Bag
-<ObjectAttachment> Tagn_GASMASK
-<ObjectAttachment> MassNBCglovesBlue
-<ObjectAttachment> MSFCGasMaskM04White
+<ObjectAttachment>	BoxCerealCrunchin
+<ObjectAttachment>	SurgicalGloves_White
+<ObjectAttachment>	Bandana_Polkapattern
+<ObjectAttachment>	MiniDress_PinkChecker
+<ObjectAttachment>	DressShoes_Whitet
 
-<Object> SurvivorF_Maria
+<Object> SurvivorM_Niki
 <ObjectPosition> 3707.74, 402.043, 5959.24
 <ObjectOrientation> 335.798, 347.714, 0
-<ObjectAttachment> BBP_T3_WallKit
-<ObjectAttachment> Shovel
-<ObjectAttachment> WorkingGloves_Yellow
-<ObjectAttachment> ConstructionHelmet_Yellow
-<ObjectAttachment> Shirt_RedCheck
-<ObjectAttachment> CanvasPants_Beige
-<ObjectAttachment> WorkingBoots_Yellow
+<ObjectAttachment>	Wrench
+<ObjectAttachment>	SledgeHammer
+<ObjectAttachment>	WorkingGloves_Brown
+<ObjectAttachment>	ConstructionHelmet_White
+<ObjectAttachment>	Shirt_BlueCheck
+<ObjectAttachment>	CanvasPants_Blue
+<ObjectAttachment>	WorkingBoots_Grey
 
 <Object> SurvivorM_Hassan
 <ObjectPosition> 3692.08, 402.012, 5982.75
 <ObjectOrientation> 80.696, 4.60007, 0
-<ObjectAttachment> katana_Mung
-<ObjectAttachment> MSFC_M4A1_Kryptek_Neptune
-<ObjectAttachment> MSFC_AK_RailHndgrd_Kryptek_Neptune
-<ObjectAttachment> MSFC_M4_OEBttstck_Kryptek_Neptune
-<ObjectAttachment> KobraOptic
-<ObjectAttachment> 2M14_DMR
-<ObjectAttachment> DMRScope
-<ObjectAttachment> MSFCTraderPants
-<ObjectAttachment> MSFCTraderSweater
-<ObjectAttachment> MSFCTraderGloves
-<ObjectAttachment> MSFCTraderBoots
-<ObjectAttachment> MSFCTraderBandanaMask
-<ObjectAttachment> MSFCTraderCap
-<ObjectAttachment> MSFCTraderPlateVest
-<ObjectAttachment> FP4_Black_Glasses
-<ObjectAttachment> MSFCRussianMilitaryAssaultBag
+<ObjectAttachment>	FirefighterAxe
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	M4A1
+<ObjectAttachment>	M4_RISHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	M4_OEBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	MilitaryBeret_CDF
+<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	TTsKOJacket_Camo
+<ObjectAttachment>	TTSKOPants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AliceBag_Camo
 
 <Object> SurvivorM_Elias
 <ObjectPosition> 3717.15, 401.826, 5972.28
 <ObjectOrientation> 111.197, 2.4001, 0
-<ObjectAttachment> AmmoBox_9x19_25rnd
-<ObjectAttachment> NailedBaseballBat
-<ObjectAttachment> MP5K
-<ObjectAttachment> MP5_RailHndgrd
-<ObjectAttachment> Universallight
-<ObjectAttachment> MP5k_StockBttstck
-<ObjectAttachment> M68Optic
-<ObjectAttachment> MP5_Compensator
-<ObjectAttachment> TacticalGloves_Black
-<ObjectAttachment> Massmichblack
-<ObjectAttachment> MSFCTacticalMaskATACSFG
-<ObjectAttachment> HighCapacityVest_Black
-<ObjectAttachment> Massurbancamom65
-<ObjectAttachment> Massurbancamocargopants
-<ObjectAttachment> MilitaryBoots_Black
-<ObjectAttachment> MassMolleBagBlack
+<ObjectAttachment>	Mag_STANAG_30Rnd
+<ObjectAttachment>	SportGlasses_Orange
+<ObjectAttachment>	BaseballCap_Camo
+<ObjectAttachment>	TacticalShirt_Olive
+<ObjectAttachment>	SmershVest
+<ObjectAttachment>	BDUPants
+<ObjectAttachment>	TTSKOBoots
+<ObjectAttachment>	AssaultBag_Ttsko
 
 <Object> SurvivorM_Taiki
 <ObjectPosition> 3716.27, 401.902, 5969
 <ObjectOrientation> 111.197, 2.4001, 0
-<ObjectAttachment> MSFC_Pantera_ACH
-<ObjectAttachment> Bandana_CamoPattern
-<ObjectAttachment> MSFC_Pantera_TacBeltMedium
-<ObjectAttachment> MSFC_Pantera_JacketNoPatch
-<ObjectAttachment> MSFC_Pantera_Pants
-<ObjectAttachment> MSFC_Pantera_PlateVest
-<ObjectAttachment> MSFC_Pantera_Bag
-<ObjectAttachment> TacticalGloves_Black
-<ObjectAttachment> HikingBootsLow_Blue
+<ObjectAttachment>	ThickFramesGlasses
+<ObjectAttachment>	WomanSuit_Black
+<ObjectAttachment>	SlacksPants_Black
+<ObjectAttachment>	DressShoes_Black
+
 
 <Object> SurvivorM_Jose
 <ObjectPosition> 3693.02, 402.012, 5968.83
@@ -178,7 +162,7 @@ TraderObject
 
 <Object> Land_Misc_Well_Pump_Blue
 <ObjectPosition> 3723.73, 401.859, 5969.56
-<ObjectOrientation> -27.554056, -2.080994, 0.138458
+<ObjectOrientation> -27.554056, -1.080994, 0.138458
 
 <Object> BarrelHoles_ktz_PLETSLORING
 <ObjectPosition> 3692.49, 402.012, 5979.76
@@ -236,22 +220,17 @@ TraderObject
 <Object> 			SurvivorM_Seth
 <ObjectPosition> 6889.14, 401.992, 11467.4
 <ObjectOrientation> 135, 0, 0
-<ObjectAttachment>	FirefighterAxe
-<ObjectAttachment>	SVD
-<ObjectAttachment>	PSO1Optic
-<ObjectAttachment>	M4A1
-<ObjectAttachment>	M4_RISHndgrd
-<ObjectAttachment>	Universallight
-<ObjectAttachment>	M4_OEBttstck
-<ObjectAttachment>	M68Optic
-<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	SR25_Black
+<ObjectAttachment>	ACOGOptic
+<ObjectAttachment>  SR25_Magazine
 <ObjectAttachment>	OMNOGloves_Gray
-<ObjectAttachment>	MilitaryBeret_CDF
-<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	MVS_ArmoredHelmet_Multicam_Black
+<ObjectAttachment>	MVS_Combat_Vest_Heavy_Black
 <ObjectAttachment>	TTsKOJacket_Camo
 <ObjectAttachment>	TTSKOPants
 <ObjectAttachment>	MilitaryBoots_Black
-<ObjectAttachment>	AliceBag_Camo
+<ObjectAttachment>	MVS_Rucksack_Black
+
 
 <Object> Land_FuelStation_Build
 <ObjectPosition> 6887.87, 403.53, 11466.0
@@ -333,89 +312,87 @@ TraderObject
 <Object> 			SurvivorM_Peter
 <ObjectPosition>	1120.12,    5.64099,    2417.43
 <ObjectOrientation>	150, 0,			0
-<ObjectAttachment>	LugWrench
-<ObjectAttachment>	WorkingGloves_Black
-<ObjectAttachment>	ReflexVest
-<ObjectAttachment>	JumpsuitJacket_Blue
-<ObjectAttachment>	JumpsuitPants_Blue
-<ObjectAttachment>	HikingBootsLow_Blue
+<ObjectAttachment> CarRadiator
+<ObjectAttachment> BaseballCap_Blue
+<ObjectAttachment> WorkingGloves_Black
+<ObjectAttachment> ReflexVest
+<ObjectAttachment> JumpsuitJacket_Blue
+<ObjectAttachment> JumpsuitPants_Blue
+<ObjectAttachment> HikingBootsLow_Blue
 
 // Kumyrna:
 
-<Object> 			SurvivorM_Niki
+<Object> 			SurvivorF_Maria
 <ObjectPosition>	8354.06,    293.143,    5995.87
 <ObjectOrientation>	-169.334961,0,			0
-<ObjectAttachment>	WaterBottle
-<ObjectAttachment>	SurgicalGloves_Green
-<ObjectAttachment>	MedicalScrubsHat_White
-<ObjectAttachment>	SurgicalMask
-<ObjectAttachment>	MedicalScrubsShirt_White
-<ObjectAttachment>	MedicalScrubsPants_Blue
-<ObjectAttachment>	NBCBootsGray
+<ObjectAttachment>	BoxCerealCrunchin
+<ObjectAttachment>	SurgicalGloves_White
+<ObjectAttachment>	Bandana_Polkapattern
+<ObjectAttachment>	MiniDress_PinkChecker
+<ObjectAttachment>	DressShoes_Whitet
 
-<Object> 			SurvivorF_Maria
+<Object> 			SurvivorM_Niki
 <ObjectPosition>	8357.55,    293.143,    5995.26
 <ObjectOrientation>	-170.312988,0,			0
-<ObjectAttachment>	Screwdriver
-<ObjectAttachment>	Shovel
-<ObjectAttachment>	WorkingGloves_Yellow
-<ObjectAttachment>	ConstructionHelmet_Yellow
-<ObjectAttachment>	Shirt_RedCheck
-<ObjectAttachment>	CanvasPants_Beige
-<ObjectAttachment>	WorkingBoots_Yellow
+<ObjectAttachment>	Wrench
+<ObjectAttachment>	SledgeHammer
+<ObjectAttachment>	WorkingGloves_Brown
+<ObjectAttachment>	ConstructionHelmet_White
+<ObjectAttachment>	Shirt_BlueCheck
+<ObjectAttachment>	CanvasPants_Blue
+<ObjectAttachment>	WorkingBoots_Grey
 
 <Object> 			SurvivorM_Hassan
 <ObjectPosition>	8359.22,    292.034,    5973.69
 <ObjectOrientation>	-89.158005,	0,			0
 <ObjectAttachment>	FirefighterAxe
-<ObjectAttachment>	AKM
-<ObjectAttachment>	AK_WoodHndgrd
-<ObjectAttachment>	AK_FoldingBttstck
-<ObjectAttachment>	KobraOptic
 <ObjectAttachment>	SVD
 <ObjectAttachment>	PSO1Optic
-<ObjectAttachment>	TacticalGoggles
-<ObjectAttachment>	TacticalGloves_Green
-<ObjectAttachment>	GorkaHelmet
-<ObjectAttachment>	BandanaMask_CamoPattern
-<ObjectAttachment>	UKAssVest_Camo
-<ObjectAttachment>	GorkaEJacket_Summer
-<ObjectAttachment>	GorkaPants_Summer
+<ObjectAttachment>	M4A1
+<ObjectAttachment>	M4_RISHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	M4_OEBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	MilitaryBeret_CDF
+<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	TTsKOJacket_Camo
+<ObjectAttachment>	TTSKOPants
 <ObjectAttachment>	MilitaryBoots_Black
 <ObjectAttachment>	AliceBag_Camo
 
 <Object> 			SurvivorM_Elias
 <ObjectPosition>	8354.61,    292.034,    5967.63
 <ObjectOrientation>	-22.091135,	0,			0
-<ObjectAttachment>	AmmoBox_9x19_25rnd
-<ObjectAttachment>	NailedBaseballBat
-<ObjectAttachment>	MP5K
-<ObjectAttachment>	MP5_RailHndgrd
-<ObjectAttachment>	Universallight
-<ObjectAttachment>	MP5k_StockBttstck
-<ObjectAttachment>	M68Optic
-<ObjectAttachment>	MP5_Compensator
-<ObjectAttachment>	OMNOGloves_Gray
-<ObjectAttachment>	BallisticHelmet_Green
-<ObjectAttachment>	BandanaMask_CamoPattern
-<ObjectAttachment>	HighCapacityVest_Olive
-<ObjectAttachment>	USMCJacket_Woodland
-<ObjectAttachment>	USMCPants_Woodland
+<ObjectAttachment>	Mag_STANAG_30Rnd
+<ObjectAttachment>	SportGlasses_Orange
+<ObjectAttachment>	BaseballCap_Camo
+<ObjectAttachment>	TacticalShirt_Olive
+<ObjectAttachment>	SmershVest
+<ObjectAttachment>	BDUPants
 <ObjectAttachment>	TTSKOBoots
-<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AssaultBag_Ttsko
 
 <Object> 			SurvivorM_Taiki
 <ObjectPosition>	8370.48,	293.277,	5994.52
 <ObjectOrientation>	-112.26684,	0,			0
-<ObjectAttachment>	AviatorGlasses
-<ObjectAttachment>	ZmijovkaCap_Blue
-<ObjectAttachment>	Hoodie_GraffitiTiles
-<ObjectAttachment>	Jeans_BlueDark
-<ObjectAttachment>	Sneakers_White
+<ObjectAttachment>	ThickFramesGlasses
+<ObjectAttachment>	WomanSuit_Black
+<ObjectAttachment>	SlacksPants_Black
+<ObjectAttachment>	DressShoes_Black
 
-<Object> 			SurvivorM_Jose
+
+<Object> 			SurvivorM_Peter
 <ObjectPosition>	8365.63,	292.012,	5977.71
 <ObjectOrientation>	-22.091135,	0,			0
+<ObjectAttachment> CarRadiator
+<ObjectAttachment> BaseballCap_Blue
+<ObjectAttachment> WorkingGloves_Black
+<ObjectAttachment> ReflexVest
+<ObjectAttachment> JumpsuitJacket_Blue
+<ObjectAttachment> JumpsuitPants_Blue
+<ObjectAttachment> HikingBootsLow_Blue
 
 
 

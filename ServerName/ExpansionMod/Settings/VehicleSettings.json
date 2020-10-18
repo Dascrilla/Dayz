@@ -4,7 +4,7 @@
     "VehicleRequireAllDoors": 1,
     "VehicleLockedAllowInventoryAccess": 0,
     "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
-    "EnableWindAerodynamics": 0,
+    "EnableWindAerodynamics": 1,
     "EnableTailRotorDamage": 1,
     "PlayerAttachment": 1,
     "Towing": 1
